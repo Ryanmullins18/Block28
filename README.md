@@ -1,2 +1,2 @@
 # React-router
-https://app.netlify.com/sites/3colorspicker/overview
+https://3colorspicker.netlify.app
